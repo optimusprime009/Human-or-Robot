@@ -15,4 +15,9 @@ Capstone project for the Machine Learning Engineer Nanodegree program offered by
 
 Fairly easy. Just execute `python3 main.py` and follow the instructions ;)
 
-If you want to execute all stages in one run without too much protocol, run: `python3 main.py -o 0`
+If you want to execute all stages in one run without too much protocol, run: `python3 main.py -o 0`.
+
+##Results
+
+The results of the project is given in the link given below.
+https://himanshut3344.wixsite.com/website/post/human-or-robot
